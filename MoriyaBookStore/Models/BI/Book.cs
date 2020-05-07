@@ -7,7 +7,7 @@ namespace MoriyaBookStore.Models.BI
 {
     public class Book : Item
     {
-        
+        //זה שינוי שעשיתי
         public bool InStack { get; set; }
 
     }
